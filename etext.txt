@@ -1,2 +1,2 @@
-this is test.
-b
+A
+this is a new test.
