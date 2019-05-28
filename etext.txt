@@ -1,12 +1,6 @@
-﻿<<<<<<< HEAD
-A
-this is a new test.
-C
-D
-=======
-a
+﻿a
 this is a new test.
 C
 D
 E
->>>>>>> newb
+Da
