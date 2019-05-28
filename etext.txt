@@ -1,4 +1,12 @@
+﻿<<<<<<< HEAD
 A
 this is a new test.
 C
 D
+=======
+a
+this is a new test.
+C
+D
+E
+>>>>>>> newb
